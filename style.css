@@ -1,0 +1,140 @@
+h4{
+    font-family: 'Lato';
+    font-weight: 900;
+    color: #13569e;
+    font-size: 26px;
+    display: inline-block;
+    margin-right: 10px;
+    float: right;
+
+
+
+}
+h1{
+    font-family: 'Lato' sans-serif;
+    font-weight: 700;
+    color: #13569e;
+    font-size: 60px;
+
+
+}
+h2{
+    font-family: 'Lato';
+    font-weight: 600;
+    color: #13569e;
+
+}
+p{
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 18px;
+    color:#1B2E47;
+
+
+}
+.contact-button{
+    color: #cbcfd3;
+    font-family: 'Lato',sans-serif;
+     background-color: #13569e;
+     border-radius: 0px;
+     
+
+}
+footer{
+    list-style: none;
+    
+    margin-right: 10px;
+    color: #13569e;
+}
+li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 10px;
+    color: #13569e;
+}
+.navbar{
+    font-family: 'Lato';
+    
+    color: #13569e;
+    font-size: 26px;
+    display: inline-block;
+    margin-right: 10px;
+    float: right;
+}
+.hero-image{
+    width: 50%;
+    height: auto;
+    margin-left: 280px;
+
+}
+@media only screen and (max-width: 600px) {
+    .hero-image{
+        width: 100%;
+        height: auto;
+        margin-left: 0px;
+    
+    }
+    .navbar{
+        font-family: 'Lato';
+        
+        color: #13569e;
+        font-size: 26px;
+        display: inline-block;
+        margin-right: 10px;
+        float: right;
+    }
+    .contact-button{
+        color: #cbcfd3;
+        font-family: 'Lato',sans-serif;
+        
+    
+        background-color: #13569e;
+    
+    }
+    footer{
+        list-style: none;
+        display: inline-block;
+        margin-right: 10px;
+        color: #13569e;
+    }
+    li {
+        list-style: none;
+        display: inline-block;
+        margin-right: 10px;
+        color: #13569e;
+    }
+    h4{
+        font-family: 'Lato';
+        font-weight: 900;
+        color: #13569e;
+        font-size: 26px;
+        display: inline-block;
+        margin-right: 10px;
+        float: right;
+    
+    
+    
+    }
+    h1{
+        font-family: 'Lato' sans-serif;
+        font-weight: bold;
+        color: #13569e;
+        font-size: 60px;
+    
+    
+    }
+    h2{
+        font-family: 'Lato';
+        font-weight: 600;
+        color: #13569e;
+    
+    }
+    p{
+        font-family: 'Lato';
+        font-weight: 600;
+        font-size: 18px;
+        color:#1B2E47;
+    
+    
+    }
+}
